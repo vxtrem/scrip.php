@@ -1,0 +1,2 @@
+# scrip.php
+scrip
